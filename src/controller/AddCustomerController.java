@@ -68,7 +68,7 @@ public class AddCustomerController implements Initializable {
     public void btnUpdateCustomerOnAction(ActionEvent actionEvent) {
     }
 
-    public void btnUpdateOnAction(ActionEvent actionEvent) {
+    public void btnDeleteOnAction(ActionEvent actionEvent) {
     }
 
     public void btnClearOnaction(ActionEvent actionEvent) {
